@@ -25,12 +25,6 @@ Com o domínio de todas as etapas de um projeto de ciência de dados, desde o en
   <img align="center" alt="Sklearn" height="40" width="75" src=https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png />
 </div>
 
-#### Basicos
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
 ## Redes
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/rafael-filho/" target="blank"><img align="center" alt="LinkedIn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
