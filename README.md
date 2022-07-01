@@ -11,18 +11,18 @@ Com o domínio de todas as etapas de um projeto de ciência de dados, desde o en
 
 <div align="center">Todos os meus projetos estão disponíveis <a href="https://rafafaelfilho.github.io/portfolio_projetos/">[Aqui]</a></div>
 
-## Ferramentas
-#### Principais
+## Principais Ferramentas
 <div style="display: inline_block">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Numpy" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-  <img align="center" alt="MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Sklearn" height="40" width="75" src=https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png />
+  <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Numpy" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Sklearn" height="45" width="90" src=https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png />
+  <img align="center" alt="Streamlit" height="40" width="60" src=https://streamlit.io/images/brand/streamlit-mark-color.png />
+  <img align="center" alt="Heroku" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img align="center" alt="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Github" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ## Redes
@@ -30,3 +30,5 @@ Com o domínio de todas as etapas de um projeto de ciência de dados, desde o en
   <a href="https://www.linkedin.com/in/rafael-filho/" target="blank"><img align="center" alt="LinkedIn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <a href="https://www.kaggle.com/rafafaelfilho" target="blank"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 </div>
+    
+
