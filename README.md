@@ -9,7 +9,8 @@ Os produtos de dados são desenvolvidos através de Análises e técnicas de Mac
 
 Com o domínio de todas as etapas de um projeto de ciência de dados, desde o entendimento do problema de negócio, coleta e extração desses dados, feature engineering, modelagem dos dados, construção de algoritmos de machine learning perfomáticos, até a parte final de colocá-lo em produção e gerar retorno financeiro a empresa.
 
-<div align="center">Todos os meus projetos estão disponíveis <a href="https://rafafaelfilho.github.io/portfolio_projetos/">[Aqui]</a></div>
+<div align="center">Todos os meus projetos estão disponíveis <a href="https://github.com/RafafaelFilho/portfolio_projetos">aqui</a></div>
+<div align="center">Meu site Porftólio está disponível <a href="https://rafafaelfilho.github.io/portfolio_projetos/">aqui</a></div>
 
 ## Principais Ferramentas
 <div style="display: inline_block">
